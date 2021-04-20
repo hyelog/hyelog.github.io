@@ -1,0 +1,7 @@
+Trouble shoot
+- AWS auth map role 이 잘못되어서 cluster 가 동작안할때
+ - 로그
+  "I0420 02:35:24.256899       1 leaderelection.go:341] lock is held by cluster-autoscaler-aws-cluster-autoscaler-794b9c695d-xrmc7 and has not yet expired"
+  "I0420 02:35:20.071375       1 leaderelection.go:247] failed to acquire lease kube-system/cluster-autoscaler"
+ - Console 상에 노드 정보가 나오지 않음.
+ - 노드그룹에 Access denied.
