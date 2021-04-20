@@ -5,3 +5,4 @@ Trouble shoot
   "I0420 02:35:20.071375       1 leaderelection.go:247] failed to acquire lease kube-system/cluster-autoscaler"
  - Console 상에 노드 정보가 나오지 않음.
  - 노드그룹에 Access denied.
+ - metadata.managedFields[x].manager & operation에 현재 시간과 수정내용을 알수 있음.
