@@ -3,3 +3,8 @@
 ## July-27-23
 1. Learn about LLaMA from Youtube
 [LLaMA lecture](https://www.youtube.com/watch?v=jvYpv9VJBOA)
+[LLaMA code](https://github.com/facebookresearch/llama/tree/main/llama)
+LLaMA is only GPT3(tokenizer + model), 'only' the difference is that has RMS normalization. 
+
+## July-28-23
+[Tobe](https://www.youtube.com/watch?v=T1XadeiKl1M)
