@@ -21,3 +21,18 @@ comments: true
 - second nature : a behavior that has been practiced for so long, it seems to have been there always
 - to tell you the truth : to speak openly
 - your guess is as good as mine : I don't know
+
+# 2023-07-29
+- `sell like hotcakes` : to sell fast; to be a popular item
+- sold out : completely sold
+- right away
+- `tall order` : a task or goal that is difficult to achieve
+- blow it : to spoil an opportunity
+- `take off` : to become popular; to glow suddenly
+- `Burn the midnight oil` : to stay up late studying or working
+- `(to be) sitting pretty` : in a good position (often financially)
+- `Rest assured` : be sure
+- do my best : to try as hard as possible
+- `deliver the goods` : to meet expectations; to do what's required
+- `chitchat` : casual conversation; gossip
+
