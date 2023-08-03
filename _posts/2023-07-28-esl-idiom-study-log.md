@@ -81,3 +81,23 @@ comments: true
 - `sure thing` : an outcome that is assured
     ex: Gary bet all his money on a horse named Trixie, thinking she was a sure thing.
     
+# 2023-Aug-03
+
+- all over : throughout; everywhere
+    ex: I got ketchup all over my white sweater.
+- (to) come to an agreement : to reach an agreement
+    ex: I we can come to an agreement now, I can start work on Monday.
+- in that case : under that circumstance
+- (to be or to get) in touch with (someone) : to be or to get in contact with (someone)
+- (to) look forward to : to anticipate eagerly
+- `to make one's day` : to give one great satisfaction
+    ex: Thanks for bringing over those cookies last week. That made my day!
+- `(to be) nuts about` : to like very much
+    ex: We're just nuts about our new neighbors.
+- `nuts and bolts` : details; basic components of sth
+- `on a shoestring` : on a very low budget
+    ex: Bob and were living on a shoestring after Bob lost his job.
+- `track record` : a record of achievements or performances
+    ex: We've spoken to your past employers, so we know you've got an excellent track record.
+- `(to) work out` : to find a solution; to resolve
+    ex: Nicole spent half the night helping ted work out a very difficult chemistry problem.
