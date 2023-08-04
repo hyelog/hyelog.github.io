@@ -51,7 +51,7 @@ comments: true
 - `Way to go!` = Good work!
 
 # 2023-Aug-01
-- `by a hair` : just barely; very narrowly; by a small amount
+- `by a hair` : just barely (간신히); very narrowly; by a small amount
     ex: Larry won the bicycle race by a hair.
 - `(to) cheer up` : to make someone happy
     ex: Some called her friend in the hospital to cheer her up.
@@ -64,7 +64,7 @@ comments: true
     ex: You think you're going to win 1$ million in the lottery? Get real!
 - `(to) give it one's best shot` : to try as hard as one can
     ex: Courtney lost the race, but at least she gave it her best shot.
-- `Give me break!` : that's ridiculous; that's outrageous
+- `Give me a break!` : that's ridiculous; that's outrageous (터무니없는)
     ex: You want me to pay $3 for one cookie? Give me a break!
 - (to) give up : to admit defeat; to surrender
 - (to) go wrong : to make a mistake; to go astray (Away from the right; in or into error or evil.); to malfunction; to work incorrectly
@@ -101,3 +101,26 @@ comments: true
     ex: We've spoken to your past employers, so we know you've got an excellent track record.
 - `(to) work out` : to find a solution; to resolve
     ex: Nicole spent half the night helping ted work out a very difficult chemistry problem.
+
+# 2023-Aug-04
+
+- `better off` : in a more fourtunate position
+    ex: We're better of leaving for France on Thursday evening, so we can spend the entire weekend there.
+- `(to) buy out` : to purchase an entire business or someone's share of a business
+    ex: Microsoft bought out Adam's company for $12 million.
+- `cup of tea` : the type of person or thing that one generally likes
+    ex: Hockey isn't Alan's cup of tea.
+- `dragon lady` : a nasty woman who misuses her power
+    ex: Beth is a real dragon lady. She's always screaming at her employees.
+- (to) get it : to understand
+- it looks like : it's likely that
+- `no laughing matter` : nothing to joke about; something serious
+- `nothing to do with (someone or something)` : not have any relationship with someone; to not get involved with something
+    ex: After I found out that Nora shoplifted some lipstick from the drugstore, I wanted nothing to do with her.
+- `rolling in dough` : very rich
+    ex: Susan and Bob don't need to work anymore. They're rolling in dough
+- `(to) strike it rich` : to attain sudden financial success
+    ex: Chad struck it rich with the winning lottery ticket
+- `that's the way the cookie crumbles` : that's the way things go sometimes and there's nothing you can do about it.
+    ex: You lost your job? That's the way the cookie crumbles /Somebody drank your last can of Pepsi? Oh well, that's the way the cookie crumbles.
+    
