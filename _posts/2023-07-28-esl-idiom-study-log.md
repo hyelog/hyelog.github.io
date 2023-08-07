@@ -124,3 +124,63 @@ comments: true
 - `that's the way the cookie crumbles` : that's the way things go sometimes and there's nothing you can do about it.
     ex: You lost your job? That's the way the cookie crumbles /Somebody drank your last can of Pepsi? Oh well, that's the way the cookie crumbles.
     
+# 2023-Aug-05
+
+- `(to) burn someone up` : to make someone angry
+    ex: Jenny didn't vote for Nicole. That really burns Nicole up.
+- come on in : enter
+    ex: Come on in, the door's open!
+- `(to) get plastered` [slang] : to get drunk
+    ex: Harold got plastered at the wedding and fell into the wedding cake.
+- (to) get rid of : to free oneself of; to throw out
+    ex: We finally got rid of our spider problem, but now we have ants.
+- `(to) get (something) straight` : to clarify; to understand
+    ex: Are you sure you got the directions straight?
+- `(to) hold a grudge against (someone)` : to stay angry with someone about a past offense
+    ex: Nicole holds a grudge against Jenny for voting for Andy instead of her.
+- `(to) let (someone) go` : to fire; dismiss employess
+    ex: The investment bank let Chris go after they discovering he was stealing erasers, paper clips, and other office supplies.
+- `(to) level with (someone)` : to speak openly and honestly with someone
+    ex: Let me level with you. I'm voting for Andrea instead of you.
+- `(to) lose one's head` : to lose control of one's behavior; to not know what one is doing
+    ex: Nicole lost her head after losing the elections and started yelling at all her friends.
+- `no hard feelings`: no anger; no bitterness
+    ex: After the elections, Andrea said to Nicole, "I hope there are no hard feelings."
+- `no use crying over split milk` : there's no point in regretting something that's too late to change
+    ex: Nicole realized she'd made some mistakes with her campaign for president, but there was no use crying over split milk.
+- `Not on your life!` : definitely not
+    ex: You want me to sit in that sauna for an hour? Not on your life!
+- `on the job` : at work
+    ex: Jennifer has four men on the job painting her house.
+- `small fortune` : a good amount of money
+    ex: When her great aunt died, Anne inherited a small fortune.
+- (to) stop by : to pay a quick visit
+    ex: Stopy by my office on your way home tonight.
+- `three sheets to the wind` : drunk
+    ex: After drinking four beers, Bob was three sheets to the wind.
+- `well off` : wealthy; financially secure
+    ex: Betsy's grandfather used to be very well off, but he lost most of his fortune when the U.S. stock market crashed in 1929.
+
+# 2023-Aug-07
+
+- `all along` : throughout; from beginning to end
+    ex: Jenny told Nicole she would vote for her, but all along she was planning on voting for Andrea.
+- `all better` : completely cured
+    ex: If you're not all better, you shoudln't go to work tomorrow.
+- `(to) buy (some) time` :to make more time available (in order to achieve a certain purpose)
+    ex: We're not sure yet whether or not we want to buy the house. We'd better buy some time so we can think about it over the weekend.
+- `(to) chill out` [slang] : to releax
+    ex: Chill out! If we miss this train, we'll just take the next one.
+- `(to) cut it out` : stop it; stop the annoying behavior
+    ex: Cut it out! Stop trying to pull my shoes off!
+- `first things first` : let's focus on the most important thing or task first
+    ex: You want to work here at Lulu's Dance Club? First thing first, have you ever worked as a dancer before?
+- `(to) freak out` [slang] : to respond to something irrationally or crazily; to overreact
+    ex: Ashley's parents freaked out when she told them she was dropping out of college to become an actress.
+- (to be) in charge of : having responsibility for
+    ex: John is in charge of all international sales for his company.
+- in progress : happening; under way; going on now.
+- `(to) make a fortune` : to make a lot of money.
+    ex: Adam made a fortune when he sold his company to Microsoft.
+- (to be) sick and tired of : completely bored with; sick of
+    ex: Ted is sick and tired of hearing about what an excellent student Nicore is.
