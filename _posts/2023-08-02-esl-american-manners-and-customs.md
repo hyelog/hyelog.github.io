@@ -36,3 +36,24 @@ comments: true
 - welding : heat something and stick piece together
 - high-pressure sales people
 - accredited : 공인
+- apprenticeship : a way to learn on the job
+- guidance counselor : a person at school who advises students about colleage
+- scam : a plan to fool people into giving money for something with no value
+- crushes : smash down, really like them
+
+## Friendship in the United States
+- Cub Scouts : Junior Boy Scouts for ages 8 to 11
+- Brownies : A club for girls 8 to 11; they learn games, crafts, and art.
+- 4-H Club : A club for learning farm skills and animal care.
+- play date : A meeting for children to get together to play.
+- Adjustment : All of these students are going through an adjustment to the U.S.
+- in common : With similar ideas, interests, or characteristics as another person.
+    ex : This gives them something in common.
+- hang out : Friends or groups of friends hang out together
+- sleepovers : Friends may have sleepovers at each other homes.
+- synagogue : A jewish(유대인) house of worship; a temple.
+- Toastmasters : A club to help people learn public speaking
+- going steady : Dating a person exclusively, without dating others
+    ex: We are going steady.
+- a platonic friendship 
+- Friends with benefits : a couple have sex sometimes, but they are just friends.
