@@ -82,3 +82,4 @@ comments: true
 - `anesthesiologist` : A medical doctor with a specialty in reducing pain.
 - `Caesarian delivery` : Cutting the uterus to remove a baby.
 - `umbilical cord` : The cord leading from the placenta to the unborn baby
+- `Way to go` : 잘했어 / 바로 그거야! / 자알~한다.
