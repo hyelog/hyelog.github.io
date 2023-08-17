@@ -216,3 +216,26 @@ comments: true
     ex: You won 10 games in a row? You're on a winning steak!
 - `(to) wrap up` : to finish<br/>
     ex: If you wrap up your homework by eight o'clock. we'll have time to catch a movie tonight.
+
+# 2023-Aug-17
+- about to : ready to; on the verge of(~하기 전에);
+- after all : despite everything (그런데도); when everything has been considered
+- at least 
+- (to) break the news : to make something known
+- `(to) cost an arm and a leg` : to be very expensive
+- dead-end job : a job that won't lead to anything else.
+- (let's) face it : accept a difficult reality
+- `(to) give on the creeps` : to create a feeling of disgust or horror</br>
+    - ex: He was giving me the creeps!
+- `(to) go back to the drawing board` : to start a task over because the last try failed; to start again from the beginning
+- `(to) go belly up` : to go backrupt
+- `(to) give someone the ax` : to fire someone
+- (to) lose one's temper : to become very angry
+- `(to) make up one's mind` : to reach a decision; to decide
+- `no point in` : no reason to; it's not worth
+- `(to) put up with` : to endure without complaint
+- (to) save the day : to prevent a disaster or misfortune
+- `(as) sharp as a tack` : very intelligent
+- (to) talk over : to discuss
+- top dollar : the highest end of a price range; a lot of money</br>
+    - ex: Why pay top dollar?
