@@ -57,3 +57,28 @@ comments: true
     ex: We are going steady.
 - a platonic friendship 
 - Friends with benefits : a couple have sex sometimes, but they are just friends.
+
+## Love and Romance
+- Americans choose partners based on `attraction` and common interests.
+- Older people might re-enter the `dating scene` : Meeting people, looking for a good partner.
+- There are differences for each age, `ethnic` group. : Of a particular national group or culture
+- Parents may `ground` a teen for staying out past `curfew`. : 
+    - ground : To keep a child at home after school as a punishment
+    - curfew : The time by when a person must be home.
+- `Chaperones` watched over young couples. : a person who accompanies and looks after another person or group of people.
+- Students in those classes learn about sexual `intercourse` and how babies are `conceived`.
+    - intercourse : Sexual union between male and female.
+    - conceived : To become pregnant
+- In some states, schools teach that `abstinence` is the only way to prevent pregnancy. : complete avoidance of some temptation
+- Other states allow schools to teach about `contraception` : Devices or practices to prevent pregnancy
+- Love often brings `anxiety` : = nervous
+
+## Having a baby in the United States
+- `baby bump` : The beginning of the expansion of a pregnant woman's abdomen
+- `labor` : The contractions of the uterus to push a baby out.
+- natural childbirth : A system of giving birth without having any pain killers or anesthesia
+- `midwife` : A person who takes care of a woman during childbirth.
+- `crib` : A safe bed for a baby
+- `anesthesiologist` : A medical doctor with a specialty in reducing pain.
+- `Caesarian delivery` : Cutting the uterus to remove a baby.
+- `umbilical cord` : The cord leading from the placenta to the unborn baby
