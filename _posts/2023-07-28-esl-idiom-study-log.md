@@ -239,3 +239,27 @@ comments: true
 - (to) talk over : to discuss
 - top dollar : the highest end of a price range; a lot of money</br>
     - ex: Why pay top dollar?
+
+# 2023-Aug-18
+- `easier said than done` : more difficult than you think
+- `(to) get canned` : to lose one's job; to get fired = to get sacked; to be given the ax
+- `(to) hang in there` : [to persevere](https://en.dict.naver.com/#/entry/enko/f62ab42706554a9d9959c00621a94800) (펄서비어); to not give up 
+- `if worse comes to worst`: in the worst case; if absolutely necessary
+- `(to) keep one's chin up` : to stay positive
+- `last resort` : if there are no other alternatives left; the last solution for getting out of a difficulty = as a last resort
+- `(to) live from hand to mouth` : to barely have enough money to survive
+- (to) look on the bright side : to be optimistic; to think about the positive part or aspect of a situation
+- `(to) make ends meet` : to manage one's money so as to have enough to live on; to be okay financially
+- (to) make up one's mind
+- `out of work` : unemployed; not working
+- `right-hand man` : the most helpful assistant or employee
+- `(to) set eye on` : to look at; to see for the first time
+- (to) stab someone in the back : to betray someone
+- `(to) tell off` : to scold; to tell someone in strong words what one really thinks
+- `thank goodness` : I'm grateful; I'm `relieved` [릴리이브드]
+- (to) think big : to set high goals
+- What's the matter? : What's the problem?
+- `When pigs fly?` : never 
+    - = `When hell freezes over`
+    - = `never in a million years`
+    
