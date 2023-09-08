@@ -15,9 +15,9 @@ comments: true
 - [Gaurav Sen](https://www.youtube.com/c/GauravSensei/videos)
 
 자료
-- 자료1(https://github.com/donnemartin/system-design-primer)
-- 자료2(https://www.educative.io/courses/grokking-the-system-design-interview)
-- 자료3(https://www.educative.io/courses/grokking-the-principles-and-practices-of-advanced-system-design)
+- [자료1](https://github.com/donnemartin/system-design-primer)
+- [자료2](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [자료3](https://www.educative.io/courses/grokking-the-principles-and-practices-of-advanced-system-design)
 
 coding
-- Leetcode discussion(https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
+- [Leetcode discussion](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
