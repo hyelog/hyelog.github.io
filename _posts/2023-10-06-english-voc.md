@@ -18,3 +18,16 @@ comments: true
 10. Have a nice one -> Thanks, you too. 
 11. Catch you later : 나중에 봐
 12. What did you do today? : 오늘 뭐했어?
+13. I was a bit busy.
+    - I was a bit tired.
+    - I was too busy.
+    - I was exhausted. [이그-저-스티드]
+    - For sure.
+    - Were you at work?
+    - Were you at home?
+    - Were you at school?
+    - Were you at a cafe?
+    - No, I wasn't at home.
+    - How was it? 
+    - It was ok.
+    - It was easy. It was hard. It was fun.
