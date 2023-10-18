@@ -9,16 +9,16 @@ comments: true
 # Vocabulary
 1. Sediment : Something at the bottom of a liquid
 2. Infringe : To push into someone's space
-3. Restraint : Rules and regulations
+3. Restraint : To act in a thoughful, calm way
 4. Saltcellar : An old word for salt shaker
 5. Cutlery : Another word for knives, forks and spoons
-6. Etiquette : To act in a thoughtful, calm way
+6. Etiquette : The "rules" of proper social behavior
 7. The 'States : Short for "the United States"
-8. Go out the window : (disapper) When something is wrong in a situation
+8. Go out the window : To totally disregard something
 9. Have a fit : To lose control emotionally
-10. Dictates : The "rules" of proper social behavior
+10. Dictates : Rules and regulations
 11. Free-for-all : When no rules apply to behavior
-12. Inappropriate : To totally disregard something
+12. Inappropriate : When something is wrong in a situation
 13. The upper crust. : Another word for wealthy, imporant people
 
 # Idioms
