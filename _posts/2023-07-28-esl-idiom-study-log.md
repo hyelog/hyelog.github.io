@@ -1,11 +1,4 @@
----
-layout: post
-title: ESL - idiom
-tags: [esl, idiom, english]
-comments: true
----
 
-## Vocabulary
 
 # 2023-07-28
 - at first : in the beginning
