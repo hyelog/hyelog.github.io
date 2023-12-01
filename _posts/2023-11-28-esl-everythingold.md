@@ -6,12 +6,14 @@ comments: true
 ---
 
 # Expression
-- That's no hot air. : 그것은 헛된 말이 아니다.
-- Those were the days! : 그때가 좋았다! 
+- That's no hot air. : 그것은 헛된 말이 아니다. 
+- Those were the days! : 그때가 좋았다! (= What a wonderful time!) 반어법
 # Vocaburary
 1. Hot Air (뜨거운 공기):
     - That's no hot air. : 그것은 헛된 말이 아니다.
+    - hot air : not true
 2. Reluctant (망설이는): "Reluctant"이라는 단어는 어떤 일을 하고 싶지 않거나, 어떤 상황에 대해 마음이 내키지 않거나 주저하는 것을 의미합니다. 이는 개인이 어떤 행동을 취하거나 결정에 동의하는 데 불확실하거나, 동의하지 않거나, 또는 꺼리는 감정을 표현할 때 사용됩니다. 예를 들어, "He was reluctant to change jobs"라고 말하면 그 사람이 직업을 바꾸는 데 주저함을 느낀다는 의미입니다.
+    - Didn't want to go up
 3. Paraphernalia (장비 또는 도구):
 4. Churn (휩쓸다 또는 굴리다)
     - "Churn"이라는 단어는 여러 가지 의미를 가질 수 있습니다. 가장 흔한 의미는 무언가를 격렬하게 저어서 혼합하는 행위입니다. 주로 우유를 버터로 만들기 위해 젓는 과정을 의미하는 'churn'이라는 단어에서 유래했습니다. 확장된 의미로, 'churn'은 어떤 것이 계속해서 움직이거나 변화하는 상태를 묘사할 때도 사용됩니다.
@@ -35,6 +37,18 @@ comments: true
 11. "A luxury liner"는 대형이고, 고급시설을 갖춘, 여객을 위한 배를 말합니다. 이는 일반적으로 크루즈선을 의미하며, 승객들에게 최상의 편안함과 여러 가지 오락거리, 훌륭한 식사 옵션, 그리고 때때로 고급 스파와 같은 편의시설을 제공합니다. 이런 선박들은 종종 관광 여행을 목적으로 하며, "호화 유람선" 또는 "고급 크루즈선"이라고도 불립니다.
 12. an auxiliary engine
 13. "Her maiden voyage"란 선박이나 항공기가 처음으로 상업적인 운항을 시작하는 여행을 의미합니다. "Maiden"은 '처음의', '초녀의'라는 의미를 가지고 있으며, "voyage"는 '항해', '여행'을 뜻합니다. 즉, "her maiden voyage"는 특히 새로운 배나 항공기가 건조된 후 첫 번째로 승객을 태우고 출항하는 중요한 사건을 나타냅니다. 이 용어는 선박이나 항공기가 그 기능을 처음으로 정식으로 수행하는 순간을 강조하기 위해 사용됩니다.
+14. vessels : ships
+15. indigenous people : Like Native American
+16. masts : 배 돛대?
+17. sleek : smooth shape
+18. resistance : 리지스탄스
+19. auxiliary : 어그지리어리
+20. loom : 직조기
+21. growing room : 큰 옷을 사서 클때까지 입히는
+22. patch
+23. make do : 제한된, 부적절한 가용한 수단으로 견디어내다, 부족한 방법으로 때우다라는 뜻이죠. 모자라고 어려운 상황에서 어찌어찌 견디어낸다는 뜻입니다.
+24. tinker : little changed to improve something
+25. her maiden voyage
 
 # Translation
 옛것이 다시 새롭게
@@ -82,4 +96,3 @@ Pyxis Ocean이라는 다른 항해선은 여러 국제 운송 회사들의 파�
     - "Trotter"
     - 1. (동물이) 속보로 걷는 것, 특히 말이 빠른 걸음걸이로 가는 것을 의미합니다.
     - 2. "Globe-trotter"와 같이 사용될 때는, 전 세계를 여행하는 사람을 묘사하는 말로 쓰입니다. 여기서 "trotter"는 긴 여정을 자주 하는 사람을 나타냅니다.
-    
