@@ -1,0 +1,924 @@
+
+- Contraption 
+    - crazy-looking machine that might work
+    - 작동할지도 모르는 미친 듯한 모양의 기계
+    - An intricate mechanical device.
+- Flop 
+    - total failure
+    - 실패작, 완전한 실패
+    - Something that fails; perhaps visually represented by a fallen object or character.
+- Drum up
+    - To gain new business
+    - 새로운 비즈니스를 얻다
+    - Implies generating interest or business, possibly shown by a person enthusiastically playing drums.
+
+- Intrusive
+    - To push into someone else’s business
+    - 다른 사람의 일에 간섭하다
+    - This could be depicted by an unwanted element or character barging into a scene.
+
+- Charitable
+    - To be understanding and accepting
+    - 이해심 있고 받아들이는 태도
+    - Represented by a person or character performing an act of kindness.
+
+- Revolutionize
+    - To completely change something
+    - 완전히 변화시키다
+    - Symbolized by a radical change or transformation in a scene.
+
+- Toil
+    - Another word for work
+    - 일하는 다른 말
+    - Show hard work, like a character laboring intensively.
+
+- Big Ego
+    - Thinking everything you do is right
+    - 자신이 하는 모든 것이 옳다고 생각함
+    - A character with an exaggeratedly large head or posture to symbolize arrogance.
+
+- Aviation
+    - Having to do with airplanes
+    - 비행기와 관련된
+    - Include elements of flight, like airplanes or birds.
+
+- Private label
+    - Product made by one company for another
+    - 한 회사가 다른 회사를 위해 만든 제품
+    - Showcase a unique brand or logo.
+
+- Smart cookie 
+    - Slang word for someone really smart
+    - 매우 똑똑한 사람을 뜻하는 속어
+    - A character that looks intelligent or cunning.
+
+- Bottom line
+    - Profits in a business
+    - 사업에서의 이익
+    - This can be represented by a literal line or boundary at the bottom of the image, perhaps with a financial element.
+
+
+
+- Lukewarm
+    - 온도나 반응, 감정 등을 나타낼 때 사용되는 단어로, 두 가지 주요 의미가 있습니다
+    - 1. 온도에 관한 의미- Lukewarm은 물이나 다른 액체가 약간 따뜻하거나 미지근한 상태를 나타냅니다. 즉, 그것이 뜨겁지도 않고 차갑지도 않은 중간 정도의 온도를 의미합니다.
+    - 2. 감정이나 반응에 관한 의미- 더 비유적인 용법으로, lukewarm은 열정이나 흥미가 별로 없음을 나타냅니다. 예를 들어, 어떤 아이디어나 제안에 대한 "lukewarm response"는 그다지 열정적이거나 흥미롭지 않은 반응을 의미합니다.
+    - 따라서, 'lukewarm'은 상황에 따라 온도가 미지근한 것을 나타내거나, 무관심하거나 별로 열정적이지 않은 태도나 반응을 묘사하는 데 사용됩니다.
+- Gimmick 
+    - 주로 마케팅, 광고, 엔터테인먼트 등의 분야에서 사용되며, 다음과 같은 두 가지 주요 의미를 가집니다
+    - 1. **주의를 끌기 위한 장치 또는 수단**- Gimmick은 사람들의 관심을 끌기 위해 사용되는 독특하거나 기발한 기술, 전략, 장치를 의미합니다. 이는 종종 상품이나 서비스를 돋보이게 하기 위해 사용되며, 때로는 소비자를 유혹하거나 호기심을 자극하는 데 초점을 맞춥니다.
+    - 2. **속임수나 트릭**- 더 비판적인 의미에서, gimmick은 특정한 결과를 얻기 위해 사용되는 속임수나 트릭을 가리킵니다. 이 경우, 그것은 종종 비실용적이거나 장기적인 가치가 없는 것으로 간주됩니다.
+    - 예를 들어, 상품 판매를 촉진하기 위해 사용하는 독특한 포장이나 홍보 이벤트는 'gimmick'으로 묘사될 수 있습니다. 그러나 이 단어는 때때로 소비자를 현혹하기 위한 표면적이고 장기적인 가치가 없는 전략을 의미할 때 사용되기도 합니다.
+    - "Gimmick"의 정확한 뜻은 사용되는 맥락에 따라 달라질 수 있으며, 대체로 관심을 끌기 위한 독특한 수단이나 방법을 가리키지만 때로는 부정적인 의미로 사용될 수도 있습니다.
+- Hot Air 
+    - 뜨거운 공기
+    - - ex: That's no hot air. - 그것은 헛된 말이 아니다.
+    - - ex: hot air - not true
+- Reluctant     
+    - 어떤 일을 하고 싶지 않거나, 어떤 상황에 대해 마음이 내키지 않거나 주저하는 것을 의미합니다. 이는 개인이 어떤 행동을 취하거나 결정에 동의하는 데 불확실하거나, 동의하지 않거나, 또는 꺼리는 감정을 표현할 때 사용됩니다. 예를 들어, "He was reluctant to change jobs"라고 말하면 그 사람이 직업을 바꾸는 데 주저함을 느낀다는 의미입니다.
+    - Didn't want to go up
+- Paraphernalia
+    - 장비 또는 도구
+- Churn 
+    - 휩쓸다 또는 굴리다
+    - "Churn"이라는 단어는 여러 가지 의미를 가질 수 있습니다. 가장 흔한 의미는 무언가를 격렬하게 저어서 혼합하는 행위입니다. 주로 우유를 버터로 만들기 위해 젓는 과정을 의미하는 'churn'이라는 단어에서 유래했습니다. 확장된 의미로, 'churn'은 어떤 것이 계속해서 움직이거나 변화하는 상태를 묘사할 때도 사용됩니다.
+    - ex: The chef churned the cream to make fresh butter."
+(셰프는 신선한 버터를 만들기 위해 크림을 저었다.)
+    - ex: "The sea churned under the storm"라고 할 때는 폭풍으로 인해 바다가 격렬하게 움직이고 있다는 것을 의미합니다.
+    - 비즈니스에서 "customer churn"이라는 용어는 고객이 서비스나 제품을 더 이상 사용하지 않고 떠나는 비율을 말합니다. 
+    - ex: "The company is trying to reduce its customer churn by improving its services."
+(그 회사는 서비스를 개선하여 고객 이탈률을 줄이려고 노력하고 있다.)
+    - 문서에서 "churn through the seas"라고 표현한 것은 화물선이 바다를 가로질러 격렬하게 진행하면서 많은 양의 디젤 연료를 소비하고, 그 과정에서 많은 양의 탄소 배출물을 대기 중으로 내보내고 있다는 것을 의미합니다.
+- Riggings 
+    - 망설이는, "Riggings stowed"라는 표현은, 보통 배나 항해와 관련된 장비나 도구들이 정리되어 보관된 상태를 의미합니다. 여기서 "riggings"는 배의 돛대, 로프, 케이블, 줄 등 항해에 필요한 장비를 총칭하는 말이고, "stowed"는 그러한 장비들이 사용하지 않을 때 안전하게 보관하거나 정리해두었다는 것을 나타냅니다. 예를 들어, 항해가 끝난 후 선원들이 돛과 줄을 깔끔하게 접어서 그 자리에 맞게 넣어두었다는 상황을 설명할 때 사용할 수 있습니다.
+- Build from Scratch
+    - 제로베이스에서 건설
+- Sleek
+    - 표면이 매끄럽고 광택이 나는 것을 나타낼 때- 예를 들어, "sleek hair"는 윤기 나고 매끄러운 머리카락을 의미합니다.
+    - 디자인이나 형태가 세련되고, 흐름이 좋아서 공기나 물의 저항을 최소화하는 것- 예를 들어, "sleek car design"은 공기역학적으로 효율적인 세련된 자동차 디자인을 말합니다.
+    - 동물이나 사람의 몸매가 날씬하고 우아한 것을 표현할 때도 사용됩니다- 예를 들어, "She has a sleek figure"는 그녀가 날씬하고 우아한 몸매를 가지고 있다는 뜻입니다.
+- A luxury liner
+    - 대형이고, 고급시설을 갖춘, 여객을 위한 배를 말합니다. 이는 일반적으로 크루즈선을 의미하며, 승객들에게 최상의 편안함과 여러 가지 오락거리, 훌륭한 식사 옵션, 그리고 때때로 고급 스파와 같은 편의시설을 제공합니다. 이런 선박들은 종종 관광 여행을 목적으로 하며, "호화 유람선" 또는 "고급 크루즈선"이라고도 불립니다.
+- an auxiliary engine
+- Her maiden voyage
+    - 선박이나 항공기가 처음으로 상업적인 운항을 시작하는 여행을 의미합니다. "Maiden"은 '처음의', '초녀의'라는 의미를 가지고 있으며, "voyage"는 '항해', '여행'을 뜻합니다. 즉, "her maiden voyage"는 특히 새로운 배나 항공기가 건조된 후 첫 번째로 승객을 태우고 출항하는 중요한 사건을 나타냅니다. 이 용어는 선박이나 항공기가 그 기능을 처음으로 정식으로 수행하는 순간을 강조하기 위해 사용됩니다.
+
+- vessels
+    - ships
+- indigenous people
+    - Like Native American
+- masts
+    - 배 돛대?
+- sleek
+    - smooth shape
+- loom
+    -  직조기
+- growing room 
+    - 큰 옷을 사서 클때까지 입히는
+- make do 
+    - 제한된, 부적절한 가용한 수단으로 견디어내다, 부족한 방법으로 때우다라는 뜻이죠. 모자라고 어려운 상황에서 어찌어찌 견디어낸다는 뜻입니다.
+- tinker 
+    - little changed to improve something
+- Ingenuity
+    - 독창성, 창의력. 문제를 해결하거나 새로운 것을 만들어내는 능력을 말합니다.
+- Up in arms    
+    - 분노하거나 강력히 반대하는 상태. 문자 그대로 무기를 들고 일어서는 것에서 유래된 표현입니다.
+- Petition
+    - 청원. 어떤 요구나 의견을 공식적으로 제출하는 행위입니다.
+- To buy off
+    - 매수하다. 돈이나 다른 혜택을 제공하여 누군가의 의견을 바꾸거나 침묵시키는 행위입니다.
+- Proponents
+    - 지지자들. 특정 아이디어, 계획, 또는 법안 등을 지지하는 사람들을 말합니다.
+- Nuisance
+    - 성가심, 귀찮음. 불쾌하거나 방해가 되는 사람이나 상황을 가리킵니다.
+- Dubious
+    - 의심스러운. 진실성이나 신뢰성에 의문이 가는 상태를 의미합니다.
+- Upstate
+    - 주의 북부 지역. 주로 미국에서 사용되는 용어로, 주의 남부보다 북쪽에 위치한 지역을 가리킵니다.
+- Rancid[ˈræn.sɪd]
+    - 산패한. 음식이 상하거나 맛이 변한 상태를 묘사할 때 사용합니다.
+    - 'ran' 부분은 '랜'으로, 'a'의 발음이 '애'에 가깝게 발음됩니다.
+    - 'cid' 부분은 '싯'으로 발음되며, 'i'는 짧고 날카로운 '이' 소리로 발음됩니다.
+- Dumpster
+    - 대형 쓰레기통. 주로 산업용이나 상업용으로 사용되는 큰 쓰레기통입니다.
+- Incinerate
+    - 소각하다. 무언가를 태워서 없애는 것을 의미합니다.
+- Repurpose
+    - 재활용하다. 원래의 목적과 다른 새로운 용도로 무언가를 사용하는 것을 말합니다.
+- Dormant
+    - 휴면 상태의. 활동하지 않거나 비활성 상태를 의미합니다.
+- A deal with the devil
+    - 악마와의 거래. 일반적으로 큰 대가를 치르면서 원하는 것을 얻기 위해 비윤리적이거나 위험한 행동을 하는 것을 의미합니다. 
+    - A bad gargain where you'll end up losing
+- Petition
+    - 청원. 어떤 요구나 의견을 공식적으로 제출하는 행위입니다.
+- Specify
+    - 명시하다. 구체적으로 설명하거나 정의하는 것을 의미합니다.
+- Serene[suh-reen]
+    - 평온함, 고요함, 또는 맑고 평화로운 상태를 나타내는 형용사입니다. 이 단어는 주로 어떤 장소나 상황이 매우 평온하고, 진정되어 있으며, 어떠한 소란이나 혼란도 없는 상태를 묘사할 때 사용됩니다. 개인의 기분이나 태도를 나타낼 때에도 사용되어, 누군가가 매우 차분하고, 편안하며, 균형 잡힌 상태를 나타냄.
+    - 'suh'는 '섭'과 비슷하게, 짧고 가벼운 발음으로 시작합니다.
+    - 'reen' 부분은 '린'처럼 발음되며, 이 부분에 강조를 둡니다.
+- stench 
+    - 악취
+- runoff 
+    - 유출수
+- blowout 
+    - 폭발적 파열 (맥락에 따라 매립지의 벽이 무너져 내릴 때 사용될 수 있음)
+- stink 
+    - 악취, 냄새
+- the dubious distinction 
+    - 의심스러운 구별(또는 명성), 부정적인 의미에서의 특별함
+- from drowning in our own mess 
+    - 우리가 만든 엉망진창에 빠져 허우적대는 것으로부터
+- In the meantime 
+    - 그 사이에, 한편으로
+- Vegetation 
+    - 식생, 식물군
+- Conservationist
+     - 환경 보호론자
+- nausea 
+    - 메스꺼움 [너시아]
+- misnomer 
+    - a wrong or inaccurate name or designation.
+    - a wrong or inaccurate use of a name or term.
+- linger on 
+    - to remain or stay on in a place longer than is usual or expected, as if from reluctance to leave
+    - So though British troops left their former colony 73 years ago, their language lingered on as a vestige of colonial rule.
+- Irish brouge 
+    - Irish 방언
+- Fleeing persecution
+     - A refugee is someone who has been forced to flee his or her country because of persecution, war or violence.
+- Sediment 
+    - Something at the bottom of a liquid
+- Infringe  
+    - To push into someone's space
+- Restraint 
+    - To act in a thoughful, calm way
+- Saltcellar 
+    - An old word for salt shaker
+- Cutlery 
+    - Another word for knives, forks and spoons
+- Etiquette 
+    - The "rules" of proper social behavior
+- The 'States 
+    - Short for "the United States"
+- Go out the window 
+    - To totally disregard something
+- Have a fit 
+    - To lose control emotionally
+- Dictates 
+    - Rules and regulations
+- Free-for-all 
+    - When no rules apply to behavior
+- Inappropriate 
+    - When something is wrong in a situation
+- The upper crust. 
+    - Another word for wealthy, imporant people
+- monkey business 
+    - silly behaviour (e)
+- hand in hand 
+    - things that go together (i) 
+- prestigious 
+    - something really important ? (h)
+- menace 
+    - something dangerous (b)
+- mayhem 
+    - craziness everywhere you look (j)
+- disruption 
+    - when something is disturbed (k)
+- deity 
+    - something worthy of worship (c) 
+- vandalilze 
+    - to steal (l)
+- cull
+     - to reduce the size of a herd (a)
+- primate 
+    - a mammal with flexible hands and feet (m)
+- nuisance 
+    - a thing that annoys you (d)
+- forum 
+    - meeting or gathering (g)
+- novel 
+    - something new (f)
+- disposition
+    - your personality and temperament (j)
+    - temperament - the part of your character that affects your moods and the way you behave
+    - May be the reason for their cheerful disposition.
+- to go overboard 
+    - to go to extremes (k)
+    - But some are beginning to question whether things have gone overboard when it comes to coddling these four-legged creatures. (하지만 어떤 이들은 이 네 발 달린 동물에 관대한 상황이 너무 지나친 것이 아닌지 의문을 갖기 시작했습니다.)
+- coddle 
+    - to treat in an indulgent way (e)
+    - indulgent - having or indicating a tendency to be overly generous to or lenient with someone.
+- no strings attached 
+    - no conditions of any kind (a)
+- tongue-in-cheeck 
+    - a comic way of expressing yourself (c)
+    - Much of this lesson is written "tongue in cheek", because if you're a "dog person" you truly love the devotion and companionship of the critter you've choosen to share your home with.
+- bon appetit! 
+    - “enjoy your meal,” in French (i)
+- tinker 
+    - to experiment or fool around with (g)
+- critter 
+    - another name for animal (b)
+- devour 
+    - to eat very quickly (l)
+    - Things have certainly come a long way from the days of tossing moldy bread and cheese out the window for the dogs to devour. (곰팡이 핀 빵과 치즈를 창밖으로 던져 개들이 먹어 치우도록 하던 시절로부터 확실히 먼 길을 왔습니다.)
+    - moldy - 곰팡이
+- going to the dogs
+     - a bad situation that’s getting worse (h)
+- affinity 
+    - a desire to have something (f), 호감
+    - Countries with an affinity for big, energetic dogs probably have lots of wide, open space, while those with smaller pups tend to live in more congested cities.
+- antics 
+    - silly tricks and actions (d)
+    - They made us laugh with their antics, made us angry when they peed on the rug and always made us grateful for their presence as part of the family.
+- contraption 
+    - a device or machine that looks awkward or old-fashioned, especially one that you do not know how to use
+- drool 
+    - to allow saliva (= liquid in the mouth) to flow out of your mouth
+- tucked
+    - to put something into a safe or convenient place 
+    - Americans traveling to Europe are used to seeing dogs tucked under the tables at restaurants in Paris.
+- pooch 
+    - a dog
+- mutt 
+    - a person who behaves in a silly or careless way / a dog
+- a keener fashion 
+    - 격식을 차린 패션
+- ingenious 
+    - (of a person) very intelligent and skillful, or (of a thing) skillfully made or planned and involving new ideas and methods
+
+- have gone on record saying 
+    - 개인이나 조직이 공개적으로, 공식적으로 자신의 의견이나 입장을 밝힘을 의미합니다. 이는 종종 공식 문서, 인터뷰, 또는 다른 방식으로 자신의 발언이 기록되고 공개될 것임을 내포합니다. 예를 들어, 어떤 이슈에 대해 공식적인 입장을 발표할 때 이 표현을 사용하며, 그것은 나중에 참조될 수 있는 공개적인 성명이나 입장을 나타냅니다.
+- bribe
+    - 뇌물을 의미합니다. 이는 보통 불법적이거나 비윤리적인 목적으로, 누군가를 원하는 행동을 하게 하기 위해 돈이나 선물을 제공하는 행위를 가리키는 단어입니다. 예를 들어, 공직자에게 뇌물을 주어 부당한 이익을 얻으려는 경우에 사용됩니다.
+- Vigorous 
+    - 영어로 '활력이 넘치는', '강한', '건강한' 등의 의미를 갖고 있습니다. 이 단어는 사람, 활동, 성장 등이 매우 활발하고 에너지가 넘칠 때 사용됩니다. 예를 들어, 'vigorous exercise'는 '격렬한 운동'을 의미하고, 'vigorous growth'는 '왕성한 성장'을 뜻합니다.
+- novel 
+    - Something new and different
+- enliven [인라이븐] 
+    - To make more interesting, lively, or enjoyable
+- distraction 
+    - 4. An interruption
+- spontaneous 
+    - 8. Something on the spur of the moment
+- corral 
+    - 7. To keep in one space
+- cooped up 
+    - 9. To keep something inside 
+- geriatric 
+    - 5. Pertaining to older people 
+- incompetent 
+    - 3. Someone unsuited for a task
+- ageism    
+    - 1. Discrimination against the elderly
+- Quandary 
+    - dilemma, a puzzling and perplexing situation
+- Steadfast 
+    - part of a long process over time
+- Continuum 
+    - continued and dependable
+- Awful 
+    - something really bad
+- Power politics 
+    - policies of powerful countries
+- Greenhorn 
+    - someone new to a country
+- Yiddish 
+    - a mixture of Hebrew, German and Russian
+- Vestige
+     - a remnant of something that came before
+- Mandatory 
+    - something that is required by raw
+- Famine 
+    - an almost total lack of food
+- Aboriginal 
+    - the original inhabitants of a country
+- diehard 
+    - a person who strongly opposes change or who continues to support something in spite of opposition.
+- wither away 
+    - dry out, 약해지다.
+    - The reasons why tranditional languages `wither away` are complex and uncomfortable for many to deal with.
+- profound 
+    - something of great importance / very great or intense / having or showing great knowledge or insight
+- assessment 
+    - a judgement about something
+- reverence [레버런스] 
+    - having a very high opinion and respect for 
+- derogatory [디로게토리] 
+    - something insulting or disrespectful
+- ordinance [오디넌스] 
+    - another word for a local law
+- exuberant [이그주비런트] 
+    - filled with or characterized by a lively energe and excitement
+- spontaneous [스폰테니어스] 
+    - performed or occuring as a result of a sudden inner impulse or inclination and without premeditation or external stimulus
+- Meanwhile 
+    - 그 동안에, 이야기는 바뀌어
+- formidable 
+    - inspiring fear or respect through being impressively large, powerful, intense
+- hold a grudge 
+    - a feeling of ill will or resentment / maintain a feeling of anger, bitterness
+- mainstay 
+    - a person / thing of based or depends
+- deterrent 
+    - a prevention
+    - ex: As a deterrent to burglars, my father put a sign on our lawn that says, "Beware of pit bull"
+- implication 
+    - something suggested
+    - ex: When the boss said that company profits were down, the implication was that nobody would be getting a raise.
+- inequity 
+    - an injustice
+    - ex: Most Americans consider it an inequity that some millionaires pay less in taxes than ordinary citizens do
+- infirmity 
+    - a disability
+    - ex: Certain infirmities, such as arthritis and diabetes, are more likely to affect the elderly.
+- infringe (on) 
+    - to interfere with
+    - ex: When my mother is doing her homework, no one is allowed to infringe on her quiet time.
+- innovation 
+    - something new
+    - ex: When commercial bakers first offered sliced bread, it was considered an exciting innovation.
+- revitalize 
+    - to refresh
+    - ex: The City Council hopes to revitalize the currently lifeless shopping district by offering tax breaks for new businesses.
+- sparse 
+    - thin in numbers, or density
+    - ex: Martina, a highly subjective judge of her son's abilities, feels he's brilliant in every respect. The boy's father, however, has a less emotional view of him.
+- subjective 
+    - personal opinion, not provable to others
+    - ex: The reporter refused to write about his friend's trial. He knew any story he wrote would be too subjective to be published as an unbiased article.
+- succinct 
+    - brief and clear
+    - ex: Text messages are usually succinct. People don't want to type any more words than necessary to get their messages across.
+- staycation 
+    - staying home for vacationing during Covid
+- wherewithal 
+    - having enough financial means
+- bucket list 
+    - a list of goals to accomplish before you die
+- gumption 
+    - another word for courage
+- sleek 
+    - something beautifully designed
+- take heed 
+    - an old way of saying "be careful"
+- to go "all out" 
+    - pushing ahead without careful thought
+- clout 
+    - to have influence 
+- gondola 
+    - a cabin suspended under something
+- mph 
+    - abbreviation for "miles per hour"
+- bail out 
+    - getting out of an emergency situation
+- pun 
+    - a joke where the words have multiple meanings
+- palpitations 
+    - 두근거림
+- fuzzy
+    - 모호하다
+    - ex: How the organization arrived at these figures is a bit fuzzy, but there it is.
+- Once and done 
+    - 한번 가고 안간다
+- the manned balloon 
+    - 유인 기구
+- while perched inside a large plastic ball.
+    - 커다란 플라스틱 공 안에 앉아 있는 동안.
+- electives 
+    - A subject that a student chooses to take, not the requirement, 
+    - ex - sewing/cooking class
+- diplomas 
+    - A document that shows that a person has completed a course of study at a school.
+- yearbook 
+    - A book of photos and events for graduating students.
+- autograph 
+    - A person's written signature.
+- mortarboards 
+    - A flat "cap" with a tassel hanging from one side.
+- auditorium 
+    - A large room where many people can watch an event of listen to music or speeches
+- salutatorian 
+    - A graduate with the second highest grade point average.
+- valedictovrian 
+    - The person in a graduating class who has the highest grade point average.
+- patriotic (song) 
+    - Showing love of one's country
+- board of education 
+    - The group of people who manage a school district, hire teachers, etc.
+- holds their applause
+    - Don't clap your hands yet.
+- physical science 
+    - ex: earth, volcanoes
+- physical education 
+    - tennis, sports, golf
+- `transcript` 
+    - the document that shows that a person has completed the required courses
+- Teachers urge 
+    - Invest in yourself
+- GED 
+    - General Education Development test
+- pluses and minuses
+- Occupational Outlook Handbook
+- Colleage can prepare a student for a `profession` in teaching.
+- medical technology 
+    - take a picture of bone, blood test
+- welding 
+    - heat something and stick piece together
+- accredited 
+    - 공인
+- apprenticeship 
+    - a way to learn on the job
+- guidance counselor 
+    - a person at school who advises students about colleage
+- scam 
+    - a plan to fool people into giving money for something with no value
+- crushes 
+    - smash down, really like them
+- Cub Scouts 
+    - Junior Boy Scouts for ages 8 to 11
+- Brownies 
+    - A club for girls 8 to 11; they learn games, crafts, and art.
+- 4-H Club 
+    - A club for learning farm skills and animal care.
+- play date 
+    - A meeting for children to get together to play.
+- Adjustment 
+    - All of these students are going through an adjustment to the U.S.
+- in common 
+    - With similar ideas, interests, or characteristics as another person.
+    - ex: This gives them something in common.
+- hang out 
+    - Friends or groups of friends hang out together
+- sleepovers 
+    - Friends may have sleepovers at each other homes.
+- synagogue 
+    - A jewish(유대인) house of worship; a temple.
+- Toastmasters 
+    - A club to help people learn public speaking
+- going steady 
+    - Dating a person exclusively, without dating others
+    - ex: We are going steady.
+- a platonic friendship 
+- Friends with benefits 
+    - a couple have sex sometimes, but they are just friends.
+- Americans choose partners based on `attraction` and common interests.
+- Older people might re-enter the `dating scene` 
+    - Meeting people, looking for a good partner.
+- There are differences for each age, `ethnic` group. 
+    - Of a particular national group or culture
+- ground 
+    - To keep a child at home after school as a punishment
+    - ex: Parents may `ground` a teen for staying out past `curfew`.    
+
+- curfew 
+    - The time by when a person must be home.
+- `Chaperones` watched over young couples. 
+    - a person who accompanies and looks after another person or group of people.
+- intercourse 
+    - Sexual union between male and female.
+    - ex: - Students in those classes learn about sexual `intercourse` and how babies are `conceived`.
+
+- conceived 
+    - To become pregnant
+- In some states, schools teach that `abstinence` is the only way to prevent pregnancy. 
+    - complete avoidance of some temptation
+- Other states allow schools to teach about `contraception` 
+    - Devices or practices to prevent pregnancy
+- Love often brings `anxiety` 
+    - = nervous
+
+- `baby bump` 
+    - The beginning of the expansion of a pregnant woman's abdomen
+- `labor` 
+    - The contractions of the uterus to push a baby out.
+- natural childbirth 
+    - A system of giving birth without having any pain killers or anesthesia
+- `midwife` 
+    - A person who takes care of a woman during childbirth.
+- `crib` 
+    - A safe bed for a baby
+- `anesthesiologist` 
+    - A medical doctor with a specialty in reducing pain.
+- `Caesarian delivery` 
+    - Cutting the uterus to remove a baby.
+- `umbilical cord` 
+    - The cord leading from the placenta to the unborn baby
+- `Way to go` 
+    - 잘했어 / 바로 그거야! / 자알~한다.
+
+- at first 
+    - in the beginning
+- `(to) get the hang of (something)` 
+    - to learn how to do something
+- (to) give (someone) a ring 
+    - to telephone someone
+- in any case 
+    - whatever the fact is; certainly
+- `(to) keep posted` 
+    - to provide up-to-date information
+- `(to) learn the ropes` 
+    - to learn the basics
+- `pain in the neck` 
+    - an annoyance
+- piece of case 
+    - very easy
+- `(to) round up` 
+    - to gather people together
+- `second nature` 
+    - a behavior that has been practiced for so long, it seems to have been there always
+- to tell you the truth 
+    - to speak openly
+- `your guess is as good as mine` 
+    - I don't know
+- `sell like hotcakes` 
+    - to sell fast; to be a popular item
+- sold out 
+    - completely sold
+- `tall order` 
+    - a task or goal that is difficult to achieve
+- blow it 
+    - to spoil an opportunity
+- `take off`
+    - to become popular; to glow suddenly
+- `Burn the midnight oil` 
+    - to stay up late studying or working
+- `(to be) sitting pretty` 
+    - in a good position (often financially)
+- `Rest assured` 
+    - be sure
+- do my best 
+    - to try as hard as possible
+- `deliver the goods` 
+    - to meet expectations; to do what's required
+- `chitchat` 
+    - casual conversation; gossip
+
+- `big shot` 
+    - a powerful or important person
+- `(to) fool around` 
+    - to waste time, or spend it in a silly way
+- `(to) get on one's nerves` 
+    - to annoy or irritate someone
+- `(to) get the show on the road` 
+    - to start working; to begin in undertaking (To take upon oneself; to take in hand.)
+- `(to) lighten up` 
+    - to stop taking things so seriously
+- night owl 
+    - a person who enjoys being active late at night
+- `Nothing doing!` 
+    - Not a chance! =  No way! = Not on your life! 말도 안돼
+- (to) stay up 
+    - not to go to bed
+- `Way to go!` 
+    - Good work!
+
+- `by a hair`  
+    - just barely (간신히); very narrowly; by a small amount
+    - ex: Larry won the bicycle race by a hair.
+- `(to) cheer up` 
+    - to make someone happy
+    - ex: Some called her friend in the hospital to cheer her up.
+- `fair and square` 
+    - honestly
+    - ex: Tony won the ping pong tournament fair and square.
+- for sure 
+    - definitely
+    - ex: This year, Tom Cruise will win an Academy Award for sure.
+- `Get real!` 
+    - be serious or realistic about what's going on
+    - ex: You think you're going to win 1$ million in the lottery? Get real!
+- `(to) give it one's best shot` 
+    - to try as hard as one can
+    - ex: Courtney lost the race, but at least she gave it her best shot.
+- `Give me a break!` 
+    - that's ridiculous; that's outrageous (터무니없는)
+    - ex: You want me to pay $3 for one cookie? Give me a break!
+- (to) give up 
+    - to admit defeat; to surrender
+- (to) go wrong 
+    - to make a mistake; to go astray (Away from the right; in or into error or evil.); to malfunction; to work incorrectly
+- `(to) live with it` 
+    - to accept a difficult reality = learn to live with it.
+    - ex: Your boss is an idiot. Live with it.
+- `(to) make a fool of oneself` 
+    - to cause oneself to look stupid
+    - ex: Dan drank too much and then made a fool of himself.
+- (to) mess up
+    - to make a mistake; to spoil an opportunity
+    - ex: Amber messed up and put salt instead of sugar in the cookies.
+- `(to) put the blam on (someone)`
+    - to name somebody else as responsible for a misdeed or misfortune
+    - ex: Mrs. Lopez put the blame on her husband for losing their life savings in the stock market.
+- `(to) set the record straight` 
+    - to correct an inaccurate account (A statement or narrative of an event or experience; a relation, report, or description.)
+    - ex: Ken knew his father was innocent, and he hoped he could set the record straight one day.
+- `sure thing` 
+    - an outcome that is assured
+    - ex: Gary bet all his money on a horse named Trixie, thinking she was a sure thing.
+    
+- all over 
+    - throughout; everywhere
+    - ex: I got ketchup all over my white sweater.
+- (to) come to an agreement 
+    - to reach an agreement
+    - ex: I we can come to an agreement now, I can start work on Monday.
+- in that case 
+    - under that circumstance
+- (to be or to get) in touch with (someone) 
+    - to be or to get in contact with (someone)
+- (to) look forward to 
+    - to anticipate eagerly
+- `to make one's day` 
+    - to give one great satisfaction
+    - ex: Thanks for bringing over those cookies last week. That made my day!
+- `(to be) nuts about` 
+    - to like very much
+    - ex: We're just nuts about our new neighbors.
+- `nuts and bolts` 
+    - details; basic components of sth
+- `on a shoestring` 
+    - on a very low budget
+    - ex: Bob and were living on a shoestring after Bob lost his job.
+- `track record` 
+    - a record of achievements or performances
+    - ex: We've spoken to your past employers, so we know you've got an excellent track record.
+- `(to) work out` 
+    - to find a solution; to resolve
+    - ex: Nicole spent half the night helping ted work out a very difficult chemistry problem.
+
+- `better off` 
+- in a more fourtunate position
+    - ex: We're better of leaving for France on Thursday evening, so we can spend the entire weekend there.
+- `(to) buy out` 
+    - to purchase an entire business or someone's share of a business
+    - ex: Microsoft bought out Adam's company for $12 million.
+- `cup of tea` 
+    - the type of person or thing that one generally likes
+    - ex: Hockey isn't Alan's cup of tea.
+- `dragon lady` 
+    - a nasty woman who misuses her power
+    - ex: Beth is a real dragon lady. She's always screaming at her employees.
+- (to) get it 
+    - to understand
+- it looks like 
+    - it's likely that
+- `no laughing matter` 
+    - nothing to joke about; something serious
+- `nothing to do with (someone or something)` 
+    - not have any relationship with someone; to not get involved with something
+    - ex: After I found out that Nora shoplifted some lipstick from the drugstore, I wanted nothing to do with her.
+- `rolling in dough` 
+    - very rich
+    - ex: Susan and Bob don't need to work anymore. They're rolling in dough
+- `(to) strike it rich` 
+    - to attain sudden financial success
+    - ex: Chad struck it rich with the winning lottery ticket
+- `that's the way the cookie crumbles` 
+    - that's the way things go sometimes and there's nothing you can do about it.
+    - ex: You lost your job? That's the way the cookie crumbles /Somebody drank your last can of Pepsi? Oh well, that's the way the cookie crumbles.
+    
+- `(to) burn someone up` 
+    - to make someone angry
+    - ex: Jenny didn't vote for Nicole. That really burns Nicole up.
+- come on in 
+    - enter
+    - ex: Come on in, the door's open!
+- `(to) get plastered` [slang] 
+    - to get drunk
+    - ex: Harold got plastered at the wedding and fell into the wedding cake.
+- (to) get rid of 
+    - to free oneself of; to throw out
+    - ex: We finally got rid of our spider problem, but now we have ants.
+- `(to) get (something) straight` 
+    - to clarify; to understand
+    - ex: Are you sure you got the directions straight?
+- `(to) hold a grudge against (someone)` 
+    - to stay angry with someone about a past offense
+    - ex: Nicole holds a grudge against Jenny for voting for Andy instead of her.
+- `(to) let (someone) go` 
+    - to fire; dismiss employess
+    - ex: The investment bank let Chris go after they discovering he was stealing erasers, paper clips, and other office supplies.
+- `(to) level with (someone)`
+    - to speak openly and honestly with someone
+    - ex: Let me level with you. I'm voting for Andrea instead of you.
+- `(to) lose one's head` 
+    - to lose control of one's behavior; to not know what one is doing
+    - ex: Nicole lost her head after losing the elections and started yelling at all her friends.
+- `no hard feelings`
+    - no anger; no bitterness
+    - ex: After the elections, Andrea said to Nicole, "I hope there are no hard feelings."
+- `no use crying over split milk` 
+    - there's no point in regretting something that's too late to change
+    - ex: Nicole realized she'd made some mistakes with her campaign for president, but there was no use crying over split milk.
+- `Not on your life!` 
+    - definitely not
+    - ex: You want me to sit in that sauna for an hour? Not on your life!
+- `on the job` 
+    - at work
+    - ex: Jennifer has four men on the job painting her house.
+- `small fortune` 
+    - a good amount of money
+    - ex: When her great aunt died, Anne inherited a small fortune.
+- (to) stop by 
+    - to pay a quick visit
+    - ex: Stopy by my office on your way home tonight.
+- `three sheets to the wind` 
+    - drunk
+    - ex: After drinking four beers, Bob was three sheets to the wind.
+- `well off` 
+    - wealthy; financially secure
+    - ex: Betsy's grandfather used to be very well off, but he lost most of his fortune when the U.S. stock market crashed in 1929.
+
+- `all along` 
+    - throughout; from beginning to end
+    - ex: Jenny told Nicole she would vote for her, but all along she was planning on voting for Andrea.
+- `all better` 
+    - completely cured
+    - ex: If you're not all better, you shoudln't go to work tomorrow.
+- `(to) buy (some) time` 
+    - to make more time available (in order to achieve a certain purpose)
+    - ex: We're not sure yet whether or not we want to buy the house. We'd better buy some time so we can think about it over the weekend.
+- `(to) chill out` [slang] 
+    - to releax
+    - ex: Chill out! If we miss this train, we'll just take the next one.
+- `(to) cut it out`
+    - stop it; stop the annoying behavior
+    - ex: Cut it out! Stop trying to pull my shoes off!
+- `first things first` 
+    - let's focus on the most important thing or task first
+    - ex: You want to work here at Lulu's Dance Club? First thing first, have you ever worked as a dancer before?
+- `(to) freak out` [slang] 
+    - to respond to something irrationally or crazily; to overreact
+    - ex: Ashley's parents freaked out when she told them she was dropping out of college to become an actress.
+- (to be) in charge of 
+    - having responsibility for
+    - ex: John is in charge of all international sales for his company.
+- in progress - happening; under way; going on now.
+- `(to) make a fortune` 
+    - to make a lot of money.
+    - ex: Adam made a fortune when he sold his company to Microsoft.
+- (to be) sick and tired of 
+    - completely bored with; sick of
+    - ex: Ted is sick and tired of hearing about what an excellent student Nicore is.
+
+- `Big deal!`
+    - So what? That doesn't really matter. 
+    - ex: You won five dollars in the lottery? Big deal!
+- `(to) break into`
+    - 1. to enter or be let into a profession.
+    - ex: If you want to break into journalism, it's a good idea to work on a college newspaper.
+    - 2. Interrupt
+    - ex: Boris and I were talking. Please don't try to break into our conversation.
+    - 3. Enter illegally or by force.
+    - ex: Somebody broke into Peter's house and stole his DVD plater.
+    - 4. To suddenly begin an activity, such as singing.
+    - ex: After receiving the check from the National Cookie Company, Susan broke into song.
+- `cream of the crop` 
+    - the best of a group
+    - ex: In the world of women's tennis, the Williams sisters are the cream of the crop.
+- `(to) foot the bill` 
+    - to pay
+    - ex: You paid last time we went to the movies. Let me foot the bill this time.
+- `(to be) out of it`
+    - 1. not aware or knowledgeable about trends or modern habits
+    - ex: Don't ask for Susan's advice on fashion. She's really out it. She wears sneakers with everything.
+    - 2. confused (혼란스러워하는)
+    - 3. disoriented (혼란에 빠진, 방향 감각을 잃은)
+    - ex: After staying up all night studying. Ted felt out of it the next day.
+- `spending money` 
+    - money for minor expenses = pocket money
+    - ex: Before Tim left for Europe, his parents gave him $400 in spending money.
+- `(to) wine and dine` 
+    - to take someone out for an evening or an expensive meal
+    - ex: Donna wined and dined Bob and Susan and then presented them with a contract for the sale of Susan's Scrumptious Cookies.
+- `(to be on a) winning steak` 
+    - a series of wins
+    - ex: You won 10 games in a row? You're on a winning steak!
+- `(to) wrap up` 
+    - to finish
+    - ex: If you wrap up your homework by eight o'clock. we'll have time to catch a movie tonight.
+
+- about to 
+    - ready to; on the verge of(~하기 전에);
+- after all 
+    - despite everything (그런데도); when everything has been considered
+- (to) break the news 
+    - to make something known
+- `(to) cost an arm and a leg` 
+    - to be very expensive
+- dead-end job 
+    - a job that won't lead to anything else.
+- (let's) face it 
+    - accept a difficult reality
+- `(to) give on the creeps` 
+    - to create a feeling of disgust or horror</br>
+    - ex: He was giving me the creeps!
+- `(to) go back to the drawing board` 
+    - to start a task over because the last try failed; to start again from the beginning
+- `(to) go belly up` 
+    - to go backrupt
+- `(to) give someone the ax` 
+    - to fire someone
+- (to) lose one's temper 
+    - to become very angry
+- `(to) make up one's mind` 
+    - to reach a decision; to decide
+- `no point in` 
+    - no reason to; it's not worth
+- `(to) put up with` 
+    - to endure without complaint
+- (to) save the day 
+    - to prevent a disaster or misfortune
+- `(as) sharp as a tack`
+    - very intelligent
+- (to) talk over 
+    - to discuss
+- top dollar 
+    - the highest end of a price range; a lot of money</br>
+    - ex: Why pay top dollar?
+
+- `easier said than done` 
+    - more difficult than you think
+- `(to) get canned` 
+    - to lose one's job; to get fired = to get sacked; to be given the ax
+- `(to) hang in there` 
+    - 어려운 상황이나 고난을 겪고 있는 사람에게 격려하거나 위로할 때 사용됩니다. 직역하면 "거기에 매달려라" 정도이지만, 실제 의미는 "포기하지 말고 버텨라", "곤란한 상황을 참고 견뎌내라"와 같습니다. 이 표현은 상대방이 현재 직면한 어려움이 결국 지나갈 것임을 상기시키며, 지속적으로 노력하고 희망을 가지라는 의미를 담고 있습니다.
+- [to persevere]
+    - (https-//en.dict.naver.com/#/entry/enko/f62ab42706554a9d9959c00621a94800) (펄서비어); to not give up 
+- `if worse comes to worst`
+    - in the worst case; if absolutely necessary
+- `(to) keep one's chin up` 
+    - to stay positive
+- `last resort` 
+    - if there are no other alternatives left; the last solution for getting out of a difficulty = as a last resort
+- `(to) live from hand to mouth` 
+    - to barely have enough money to survive
+- (to) look on the bright side 
+    - to be optimistic; to think about the positive part or aspect of a situation
+- `(to) make ends meet` 
+    - to manage one's money so as to have enough to live on; to be okay financially
+- (to) make up one's mind
+- `out of work` 
+    - unemployed; not working
+- `right-hand man`
+    - the most helpful assistant or employee
+- `(to) set eye on` 
+    - to look at; to see for the first time
+- (to) stab someone in the back 
+    - to betray someone
+- `(to) tell off` 
+    - to scold; to tell someone in strong words what one really thinks
+- `thank goodness` 
+    - I'm grateful; I'm `relieved` [릴리이브드]
+- (to) think big 
+    - to set high goals
+- What's the matter? 
+    - What's the problem?
+- `When pigs fly?` 
+    - never 
+    - = `When hell freezes over`
+    - = `never in a million years`
+    
