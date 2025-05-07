@@ -1,6 +1,6 @@
 ---
 layout: post
-title: System Design: Netflix
+title: System Design Netflix
 subtitle: IT Trend and english summary
 tags: [IT, ML, english]
 comments: true
