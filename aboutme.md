@@ -10,4 +10,4 @@ My name is Audrey Park. I have the following qualities:
 
 ### My story
 
-I am a Korean developer and a mother of one child. I want to be a better person. I am currently living in the United States.
+I am a Korean developer and a mother of one child. I want to be a better person.
