@@ -145,3 +145,110 @@ Data 기준
 | 알고리즘 설명할 때   | 로직 흐름을 구조적으로 설명 가능                   |
 | 문서 작성 시      | 명확하고 일관된 포맷 제공                       |
 
+
+# 리스코프 치환 원칙
+**리스코프 치환 원칙(Liskov Substitution Principle, LSP)**은 객체지향 설계의 SOLID 원칙 중 하나로, 상속을 사용할 때 꼭 지켜야 하는 규칙입니다.
+
+## 정의
+“서브타입은 언제나 자신의 기반 타입(부모 클래스)으로 교체할 수 있어야 한다.”
+(Barbara Liskov, 1987)
+
+즉,
+부모 클래스를 사용하는 코드가 자식 클래스로도 문제없이 동작해야 한다는 뜻입니다.
+
+### 예
+🔴 잘못된 예 (LSP 위반)
+ 
+``` java
+class Bird {
+    void fly() {
+        System.out.println("날아갑니다");
+    }
+}
+
+class Ostrich extends Bird {
+    @Override
+    void fly() {
+        throw new UnsupportedOperationException("타조는 못 날아요!");
+    }
+}
+```
+
+✅ LSP를 만족하는 예
+``` java
+interface Bird {
+    void makeSound();
+}
+
+interface Flyable {
+    void fly();
+}
+
+class Sparrow implements Bird, Flyable {
+    public void fly() {
+        System.out.println("짹짹 날아요");
+    }
+
+    public void makeSound() {
+        System.out.println("짹짹");
+    }
+}
+
+class Ostrich implements Bird {
+    public void makeSound() {
+        System.out.println("꽥꽥");
+    }
+}
+``` 
+
+# 위임과 다형성
+| 항목     | **다형성 (Polymorphism)**                  | **위임 (Delegation)**               |
+| ------ | --------------------------------------- | --------------------------------- |
+| 정의     | 부모 타입(인터페이스 또는 클래스)으로 자식 객체를 다루는 능력     | 어떤 객체가 자신이 할 일을 **다른 객체에게 넘기는 것** |
+| 동작 방식  | 호출 시 실제 객체의 메서드가 실행됨 (동적 바인딩)           | 객체가 내부적으로 다른 객체의 메서드를 호출함         |
+| 예시 키워드 | 상속 (`extends`), 인터페이스 구현 (`implements`) | 합성 (`has-a`), 내부 호출               |
+| 관계     | **is-a** (자식은 부모 타입으로 대체 가능)            | **has-a** (내가 이 객체를 소유하거나 포함함)    |
+
+## 다형성
+``` java
+interface Printer {
+    void print();
+}
+
+class InkjetPrinter implements Printer {
+    public void print() {
+        System.out.println("잉크젯으로 인쇄합니다");
+    }
+}
+
+class LaserPrinter implements Printer {
+    public void print() {
+        System.out.println("레이저로 인쇄합니다");
+    }
+}
+
+Printer printer = new LaserPrinter();  // 부모 타입
+printer.print(); // ✅ 레이저로 인쇄합니다 → 다형성
+```
+
+## 위임
+```java
+class Document {
+    private Printer printer;
+
+    public Document(Printer printer) {
+        this.printer = printer;
+    }
+
+    public void print() {
+        printer.print();  // ✅ 위임
+    }
+}
+
+Printer printer = new InkjetPrinter();
+Document doc = new Document(printer);
+doc.print(); // 👉 내부적으로 InkjetPrinter의 print 호출
+
+```
+
+
